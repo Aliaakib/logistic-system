@@ -109,6 +109,11 @@ export const navGroups: NavGroup[] = [
           { title: "Add Driver", url: "/drivers/new" },
         ],
       },
+        {
+      title: "Delivery",
+      url: "/delivery",
+      icon: IconTruckDelivery,
+    },
       { title: "Shipping", url: "/shipping", icon: IconTruck },
       {
         title: "Invoices",
